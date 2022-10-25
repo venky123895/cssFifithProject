@@ -1,0 +1,48 @@
+.header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1100px;
+    gap: 10px;
+    margin-top: 25px;
+}
+.photo1{
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+}
+.photo2{
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+}
+.photo3{
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+}
+.photo4{
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+}
+.photo5{
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+}
+.photo6{
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+}
